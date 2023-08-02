@@ -1,0 +1,13 @@
+com\main\beans\inner\CityBean.class
+com\main\beans\inner\MainDataBean.class
+com\main\beans\inner\WeatherBean.class
+com\main\beans\RequestResponseBean.class
+com\main\home\MainLauncher.class
+com\main\beans\inner\ListBean.class
+com\main\config\AppConfig.class
+com\main\beans\inner\CoordBean.class
+com\main\service\HttpGetter.class
+com\main\beans\inner\DateRange.class
+com\main\beans\inner\WindBean.class
+com\main\beans\inner\SysBean.class
+com\main\beans\inner\CloudsBean.class

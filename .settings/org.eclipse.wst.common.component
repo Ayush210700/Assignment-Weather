@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="AssignmentProject-0.0.1-SNAPSHOT">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/ear-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/application" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/" source-path="/target/generated-sources/annotations"/>
+        <dependent-module archiveName="feign-gson-11.7.jar" deploy-path="/" handle="module:/classpath/var/M2_REPO/io/github/openfeign/feign-gson/11.7/feign-gson-11.7.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="feign-core-11.7.jar" deploy-path="/" handle="module:/classpath/var/M2_REPO/io/github/openfeign/feign-core/11.7/feign-core-11.7.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="gson-2.8.8.jar" deploy-path="/" handle="module:/classpath/var/M2_REPO/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
